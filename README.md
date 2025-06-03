@@ -1,1 +1,4 @@
-# Investment_project
+# 投资学作业
+作者: 朱思齐 (学号 2020011851)
+task 1: 请看 '投资学大作业第一题.ipynb'
+task 2: 请看 
